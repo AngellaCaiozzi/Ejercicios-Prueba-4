@@ -25,4 +25,4 @@ if op == 1:
         except:
             print('INGRESO ERRÓNEO.')  
 else:
-    print('Adiós!')                     
+    print('Adiós bellako!')                     
